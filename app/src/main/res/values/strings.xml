@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="shuffle_button">Shuffle</string>
+    <string name="favourite_button">Favourite</string>
+    <string name="playlist_button">Playlist</string>
+    <string name="music_world">World Of Music</string>
+    <string name="heart_outlne">Heart Outline</string>
+    <string name="back_button">Back Button\n</string>
+    <string name="song_name">Song Name</string>
+    <string name="start_duration">00:00</string>
+    <string name="end_duration">02:34</string>
+    <string name="backward_button">Backward Button</string>
+    <string name="pause_button">Pause Button</string>
+    <string name="forward_button">Forward_Button</string>
+    <string name="share_button">Share Button</string>
+    <string name="stop_watch">Stop watch</string>
+    <string name="equalizer_button">Equalizer Button</string>
+    <string name="repeat_button">Repeat Button</string>
+    <string name="favourite_text">Favourite</string>
+    <string name="playlist_text">PlayList</string>
+    <string name="item_song_name">Song Name</string>
+    <string name="item_song_album">Item Song Album</string>
+    <string name="item_song_duration">00:32</string>
+
+
+</resources>

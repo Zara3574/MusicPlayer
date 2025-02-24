@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MusicPlayer" parent="Theme.Material3.DayNight.NoActionBar">
+<!--         Customize your light theme here.-->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorOnPrimary">@color/black</item> <!-- Text color on primary -->
+        <item name="colorSurface">@color/white</item> <!-- Background color -->
+        <item name="colorOnSurface">@color/black</item> <!-- Text color on white background -->
+    </style>
+
+    <style name="Theme.MusicPlayer" parent="Base.Theme.MusicPlayer" />
+    <style name="splash_screen" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+</resources>
