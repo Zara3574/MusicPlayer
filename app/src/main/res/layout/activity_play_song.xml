@@ -48,13 +48,13 @@
         android:layout_width="250dp"
         android:layout_height="250dp"
         android:layout_marginTop="48dp"
-        android:src="@drawable/ic_launcher_background"
+        android:src="@drawable/musicplayer"
         app:layout_constraintEnd_toEndOf="@+id/linearLayout"
         app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="@+id/linearLayout"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout"
         app:shapeAppearanceOverlay="@style/curve_button"
-        app:srcCompat="@drawable/ic_launcher_background"
+        app:srcCompat="@drawable/musicplayer"
         tools:ignore="ImageContrastCheck" />
 
     <TextView
@@ -92,6 +92,7 @@
             android:contentDescription="@string/backward_button"
             app:icon="@drawable/backward"
             app:iconSize="20dp"
+            app:iconTint="@color/white"
             app:shapeAppearanceOverlay="@style/round_button" />
 
         <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
@@ -114,6 +115,7 @@
             android:contentDescription="@string/forward_button"
             app:icon="@drawable/forward"
             app:iconSize="20dp"
+            app:iconTint="@color/white"
             app:shapeAppearanceOverlay="@style/round_button" />
     </LinearLayout>
 
